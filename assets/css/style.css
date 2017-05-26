@@ -1,0 +1,74 @@
+body{
+	font-family: garamond;
+	background-color: teal;
+  
+}
+
+p {
+	font-size: 20px;
+}
+
+ul {
+	padding: 0px;
+}
+
+.maincontent {
+	background-color: white;
+	margin-top: 60px;
+	max-width: 960px;
+	border-radius: 5px;
+}
+
+.welcomeText {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.btn-success {
+	background-color: cornflowerblue;
+	border: 1px solid coral;
+	font-size: 24px;
+}
+
+.options li {
+	list-style: none;
+	font-size: 24px;
+	padding:10px, 25px;
+	margin:10px auto;
+	max-width: 300px;
+	border: 1px solid #00adef;
+}
+
+.options li:hover, .options li:focus {
+	background-color: #00adef;
+	border: 1px solid #00adef;
+	color:beige;
+}
+
+.correct {
+	background-color: #8cc63e;
+	border: 1px solid #8cc63e;
+	font-weight: 700;
+	color:beige;
+}
+
+.wrong {
+	background-color: green;
+	border: 1px solid green;
+	font-weight: 700;
+	color:beige;
+}
+
+.text, .options {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.result {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.result p {
+	font-weight: 700;
+}
