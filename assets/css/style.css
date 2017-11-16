@@ -1,6 +1,6 @@
 body{
-	font-family: garamond;
-	background-color: teal;
+	font-family: cursive;
+	background-image:url("https://i.imgur.com/xvDxnfY.jpg");
   
 }
 
@@ -13,9 +13,10 @@ ul {
 }
 
 .maincontent {
-	background-color: white;
-	margin-top: 60px;
-	max-width: 960px;
+	background-color: rgba(255, 255, 255, 0.45);
+	margin-top: 160px;
+	margin:auto;
+	max-width: 1000px;
 	border-radius: 5px;
 }
 
@@ -25,11 +26,10 @@ ul {
 }
 
 .btn-success {
-	background-color: cornflowerblue;
-	border: 1px solid coral;
+	background-color: #26519C;
+	border: 1px solid rgba(212, 165, 11, 0.61);
 	font-size: 24px;
 }
-
 .options li {
 	list-style: none;
 	font-size: 24px;
